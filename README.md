@@ -1,6 +1,3 @@
-Voici un modèle de README GitHub pour ton projet en tant qu'étudiant ayant réalisé ce travail pratique sur Keycloak et la sécurisation d'une architecture micro-service Spring Angular avec Keycloak :
-
----
 
 # Projet TP - Sécurisation d'une architecture avec Keycloak
 
